@@ -26,4 +26,4 @@ Application Version: 1.0
 Spoofer:
 Keyauth App: zulxk spoofer
 Owner ID: **********
-too lazy to find the rest, horrible.```
+too lazy to find the rest, horrible.
