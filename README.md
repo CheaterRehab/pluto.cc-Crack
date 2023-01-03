@@ -1,4 +1,4 @@
-# pluto.cc-Crack
+```# pluto.cc-Crack
 pluto.cc Crack
 
 Spoofer: https://cdn.discordapp.com/attachments/1058999215579213907/1059943644611751937/nigger.sys
@@ -26,4 +26,4 @@ Application Version: 1.0
 Spoofer:
 Keyauth App: zulxk spoofer
 Owner ID: **********
-too lazy to find the rest, horrible.
+too lazy to find the rest, horrible.```
