@@ -27,3 +27,5 @@ Spoofer:
 Keyauth App: zulxk spoofer
 Owner ID: **********
 too lazy to find the rest, horrible.
+
+Credit @xen00 for using my program to do reversing :kiss:
